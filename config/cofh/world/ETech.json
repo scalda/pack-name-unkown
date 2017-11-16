@@ -1,0 +1,45 @@
+{
+  "populate": {
+    "hardenedStone": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "environmentaltech:hardened_stone",
+        "material": "minecraft:stone",
+        "cluster-size": 6
+      },
+      "cluster-count": 12,
+      "min-height": 0,
+      "max-height": 14,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "alabaster": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "environmentaltech:alabaster",
+        "metadata": 1,
+        "material": "minecraft:stone",
+        "cluster-size": 3
+      },
+      "cluster-count": 3,
+      "min-height": 63,
+      "max-height": 128,
+      "retrogen": false,
+	  "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}
