@@ -22,6 +22,7 @@ mods.tconstruct.Casting.removeBasinRecipe(<avaritia:block_resource:1>);
 #mods.tconstruct.Casting.removeTableRecipe(<railcraft:ingot>);
 #mods.tconstruct.Casting.removeTableRecipe(<railcraft:nugget:1>);
 mods.tconstruct.Casting.removeTableRecipe(<avaritia:resource:6>);
+mods.tconstruct.Casting.removeTableRecipe(<minecraft:emerald>);
 
 //Tinkers add
 
@@ -45,7 +46,7 @@ mods.tconstruct.Casting.removeTableRecipe(<avaritia:resource:6>);
 #mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:129>, <liquid:tin> * 144, <tconstruct:cast_custom>);
 #mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:193>, <liquid:tin> * 16, <tconstruct:cast_custom:1>);
 #mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:160>, <liquid:steel> * 144, <tconstruct:cast_custom>);
-#mods.tconstruct.Casting.addTableRecipe(<thermalfoundation:material:224>, <liquid:steel> * 16, <tconstruct:cast_custom:1>);
+mods.tconstruct.Casting.addTableRecipe(<minecraft:emerald>, <liquid:emerald> * 500, <tconstruct:cast_custom:2>);
 
 //New Fuels For Smeltery
 //InputFluid, TemperatureAmount, Time in Ticks

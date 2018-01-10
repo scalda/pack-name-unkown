@@ -185,7 +185,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Pack Version 0.1a",
+			"text" : "Pack Version 1.0",
             "posX" : 3,
             "posY" : -12,
 			"fontSize" : .6,

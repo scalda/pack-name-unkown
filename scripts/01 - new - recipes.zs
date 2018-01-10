@@ -7,9 +7,12 @@ print("Initializing 'new recipes'...");
 
 ## ADDED
 
-//flint and steel
+//Clay blocks back to balls
+recipes.addShapeless(<minecraft:clay_ball> *4, [<minecraft:clay>]);
+
+//flint and steel name change
 recipes.remove(<minecraft:flint_and_steel>);
-recipes.addShapeless(<minecraft:flint_and_steel>, [<ore:ingotSteel>, <minecraft:flint>]);
+<minecraft:flint_and_steel>.displayName = "Flint and steel but for some reason made with Iron";
 
 
 //Steel Recipe
