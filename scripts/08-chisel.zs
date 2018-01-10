@@ -10,40 +10,40 @@ mods.chisel.Groups.addGroup("concretepowder");
 Groups.addVariation("marble", <astralsorcery:BlockMarble>);
 
 #blockAluminum
-Groups.addVariation("blockAluminum", <thermalfoundation:storage:4>);
+#Groups.addVariation("blockAluminum", <thermalfoundation:storage:4>);
 
 #blockBronze
-Groups.addVariation("blockBronze", <thermalfoundation:storage_alloy:3>);
+#Groups.addVariation("blockBronze", <thermalfoundation:storage_alloy:3>);
 
 #blockCobalt
-Groups.addVariation("blockCobalt", <tconstruct:metal>);
+#Groups.addVariation("blockCobalt", <tconstruct:metal>);
 
 #blockCopper
-Groups.addVariation("blockCopper", <thermalfoundation:storage>);
+#Groups.addVariation("blockCopper", <thermalfoundation:storage>);
 
 #blockElectrum
-Groups.addVariation("blockElectrum", <thermalfoundation:storage_alloy:1>);
+#Groups.addVariation("blockElectrum", <thermalfoundation:storage_alloy:1>);
 
 #blockInvar
-Groups.addVariation("blockInvar", <thermalfoundation:storage_alloy:2>);
+#Groups.addVariation("blockInvar", <thermalfoundation:storage_alloy:2>);
 
 #blockLead
-Groups.addVariation("blockLead", <thermalfoundation:storage:3>);
+#Groups.addVariation("blockLead", <thermalfoundation:storage:3>);
 
 #blockNickel
-Groups.addVariation("blockNickel", <thermalfoundation:storage:5>);
+#Groups.addVariation("blockNickel", <thermalfoundation:storage:5>);
 
 #blockPlatinum
-Groups.addVariation("blockPlatinum", <thermalfoundation:storage:6>);
+#Groups.addVariation("blockPlatinum", <thermalfoundation:storage:6>);
 
 #blockSilver
-Groups.addVariation("blockSilver", <thermalfoundation:storage:2>);
+#Groups.addVariation("blockSilver", <thermalfoundation:storage:2>);
 
 #blockSteel
-Groups.addVariation("blockSteel", <thermalfoundation:storage_alloy>);
+#Groups.addVariation("blockSteel", <thermalfoundation:storage_alloy>);
 
 #blockTin
-Groups.addVariation("blockTin", <thermalfoundation:storage:1>);
+#Groups.addVariation("blockTin", <thermalfoundation:storage:1>);
 
 #blockUranium
 #Groups.addVariation("blockUranium", <thermalfoundation:storage_alloy>);

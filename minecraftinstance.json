@@ -1,17 +1,17 @@
 {
   "baseModLoader": {
-    "Name": "forge-12.18.3.2488",
+    "Name": "forge-12.18.3.2511",
     "Type": 1,
-    "DownloadUrl": "https://modloaders.cursecdn.com/647622546/maven/net/minecraftforge/forge/1.10.2-12.18.3.2488/forge-1.10.2-12.18.3.2488.jar",
-    "Filename": "forge-1.10.2-12.18.3.2488.jar",
+    "DownloadUrl": "https://modloaders.cursecdn.com/647622546/maven/net/minecraftforge/forge/1.10.2-12.18.3.2511/forge-1.10.2-12.18.3.2511.jar",
+    "Filename": "forge-1.10.2-12.18.3.2511.jar",
     "InstallMethod": 1,
     "Latest": true,
     "Recommended": false,
     "Approved": false,
     "LastModified": "1753-01-01T00:00:00Z",
-    "MavenVersionString": "net.minecraftforge:forge:1.10.2-12.18.3.2488",
-    "VersionJson": "{\r\n  \"id\": \"forge-12.18.3.2488\",\r\n  \"time\": \"2017-09-21T04:53:19+0000\",\r\n  \"releaseTime\": \"1960-01-01T00:00:00-0700\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.10.2\",\r\n  \"jar\": \"forge-12.18.3.2488\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.10.2-12.18.3.2488\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"jline:jline:2.13\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:4.6\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
-    "LibrariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.10.2-12.18.3.2488",
+    "MavenVersionString": "net.minecraftforge:forge:1.10.2-12.18.3.2511",
+    "VersionJson": "{\r\n  \"id\": \"forge-12.18.3.2511\",\r\n  \"time\": \"2017-10-08T00:27:07+0000\",\r\n  \"releaseTime\": \"1960-01-01T00:00:00-0700\",\r\n  \"type\": \"release\",\r\n  \"minecraftArguments\": \"--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge\",\r\n  \"minimumLauncherVersion\": 0,\r\n  \"inheritsFrom\": \"1.10.2\",\r\n  \"jar\": \"forge-12.18.3.2511\",\r\n  \"libraries\": [\r\n    {\r\n      \"name\": \"net.minecraftforge:forge:1.10.2-12.18.3.2511\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\"\r\n    },\r\n    {\r\n      \"name\": \"net.minecraft:launchwrapper:1.12\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.ow2.asm:asm-all:5.0.3\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"jline:jline:2.13\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": false\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe.akka:akka-actor_2.11:2.3.3\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"com.typesafe:config:1.2.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-actors-migration_2.11:1.1.0\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-compiler:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-library:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-parser-combinators_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-reflect:2.11.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-swing_2.11:1.0.1\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"org.scala-lang:scala-xml_2.11:1.0.2\",\r\n      \"url\": \"https://modloaders.cursecdn.com/647622546/maven/\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"lzma:lzma:0.0.1\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.jopt-simple:jopt-simple:4.6\",\r\n      \"serverreq\": true\r\n    },\r\n    {\r\n      \"name\": \"java3d:vecmath:1.5.2\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    },\r\n    {\r\n      \"name\": \"net.sf.trove4j:trove4j:3.0.3\",\r\n      \"serverreq\": true,\r\n      \"clientreq\": true\r\n    }\r\n  ],\r\n  \"mainClass\": \"net.minecraft.launchwrapper.Launch\"\r\n}",
+    "LibrariesInstallLocation": "{0}\\libraries\\net\\minecraftforge\\forge\\1.10.2-12.18.3.2511",
     "MinecraftVersion": "1.10.2",
     "AdditionalFilesJson": null
   },
@@ -28,10 +28,10 @@
   "modpackOverrides": null,
   "isMemoryOverride": false,
   "allocatedMemory": 6144,
-  "guid": "83fb9e2b-3e7a-48cd-9cdf-75cfd37fb171",
+  "guid": "c7a413b0-1d79-42f7-9840-13899e758c85",
   "gameTypeID": 432,
   "installPath": "C:\\Users\\Scalda\\Documents\\Curse\\Minecraft\\Instances\\scalandia Modded\\",
-  "name": "Pack-Name-Unknown",
+  "name": "Pack-Name-Unkown",
   "cachedScans": [
     {
       "folderName": "AIImprovements-1.10.2-0.0.1b4.jar",
@@ -44,7 +44,7 @@
       "status": 1,
       "timestamp": "2017-11-20T11:40:19.6399075Z",
       "lastWriteTimeUtc": "2017-09-23T15:42:57.6217879Z",
-      "queryTimestamp": "2017-11-20T11:40:20.1925946Z",
+      "queryTimestamp": "2018-01-10T09:38:32.0259878Z",
       "fileCount": 1,
       "fileSize": 8096
     },
@@ -59,13 +59,13 @@
       "status": 1,
       "timestamp": "2017-11-20T11:40:19.6404088Z",
       "lastWriteTimeUtc": "2017-09-19T12:34:58.8073467Z",
-      "queryTimestamp": "2017-11-20T11:40:20.1925946Z",
+      "queryTimestamp": "2018-01-10T09:38:32.0289879Z",
       "fileCount": 1,
       "fileSize": 4654
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-11-20T11:20:11.2126716Z",
+  "lastPreviousMatchUpdate": "2018-01-10T09:38:32.5703812Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -86,11 +86,11 @@
     "LastSyncDate": "0001-01-01T00:00:00"
   },
   "preferenceShowAddOnInfo": true,
-  "installDate": "2017-09-22T17:03:51.5938775Z",
+  "installDate": "2018-01-10T09:38:29.3439385Z",
   "installedAddons": [
     {
       "addonID": 223794,
-      "gameInstanceID": "83fb9e2b-3e7a-48cd-9cdf-75cfd37fb171",
+      "gameInstanceID": "c7a413b0-1d79-42f7-9840-13899e758c85",
       "installedFile": {
         "Id": 2454983,
         "FileName": "appliedenergistics2-rv4-stable-1.jar",
@@ -145,7 +145,7 @@
     },
     {
       "addonID": 241721,
-      "gameInstanceID": "83fb9e2b-3e7a-48cd-9cdf-75cfd37fb171",
+      "gameInstanceID": "c7a413b0-1d79-42f7-9840-13899e758c85",
       "installedFile": {
         "Id": 2445788,
         "FileName": "AstralSorcery-1.10.2-1.4.5.jar",
@@ -196,7 +196,7 @@
     },
     {
       "addonID": 233019,
-      "gameInstanceID": "83fb9e2b-3e7a-48cd-9cdf-75cfd37fb171",
+      "gameInstanceID": "c7a413b0-1d79-42f7-9840-13899e758c85",
       "installedFile": {
         "Id": 2481979,
         "FileName": "AI Improvements 1.10.2-0.0.1b4-UNSTABLE build 4 for 1.10.2",
@@ -276,7 +276,7 @@
     },
     {
       "addonID": 256224,
-      "gameInstanceID": "83fb9e2b-3e7a-48cd-9cdf-75cfd37fb171",
+      "gameInstanceID": "c7a413b0-1d79-42f7-9840-13899e758c85",
       "installedFile": {
         "Id": 2412340,
         "FileName": "AR2B 0.2.4 (1.10.2)",
